@@ -73,7 +73,7 @@ loadingBackground:["mainColor","barColor"],
 BackgroundSoundButtonVisible:["enableFlipSound"],
 FlipSound:["enableFlipSound"],
 MiniStyle:["userSmallMode"],
-retainBookCenter:["moveFlipBookToCenter"],
+retainBookCenter:["movearkatToCenter"],
 totalPagesCaption:["totalPageNumberCaptionStr"],
 pageNumberCaption:["pageIndexCaptionStrs"]
 };
@@ -168,7 +168,7 @@ try{
 			if(anno.outColor==undefined){
 				anno.outColor=bookConfig.LinkDownColor;
 			}
-			if(anno.annotype=='com.mobiano.flipbook.pageeditor.TAnnoLink'){
+			if(anno.annotype=='com.mobiano.arkat.pageeditor.TAnnoLink'){
 				anno.alpha=bookConfig.LinkAlpha;
 			}
 		}
