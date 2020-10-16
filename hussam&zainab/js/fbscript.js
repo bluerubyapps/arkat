@@ -37,7 +37,7 @@ var callback = function (e){
     //Only execute if SWFObject embed was successful
     if(!e.success || !e.ref){    	
     //	alert("No Flash Supported");
-    	if('arkat_hasMobile'=='arkat_'+'hasMobile'){
+    	if('flipbuilder_hasMobile'=='flipbuilder_'+'hasMobile'){
     		delayToShowVersion("mobile/index.html")
     		// window.location = "mobile/index.html";
     	}else if(hasBasicHtml){
