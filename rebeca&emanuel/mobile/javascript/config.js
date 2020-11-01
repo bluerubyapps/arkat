@@ -99,7 +99,7 @@ btnTableOfContent:["btnBookMark"]
 	ToolBarsSettings:"",
 	TitleBar:"",
 	appLogoLinkURL:"",
-	bookTitle:"FLIPBUILDER",
+	bookTitle:"arkat",
 	bookDescription:"",
 	ButtonsBar:"",
 	ShareButton:"",
